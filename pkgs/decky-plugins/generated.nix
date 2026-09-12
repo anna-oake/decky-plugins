@@ -733,9 +733,9 @@
     };
     "magicpods" = buildDeckyPlugin {
       name = "MagicPods";
-      version = "2.0.15";
-      url = "https://cdn.tzatzikiweeb.moe/file/steam-deck-homebrew/versions/7799922e8ae4d9a119ade0f1fc562448e6c0ba78c1e9023508d97e80c5ebc7ee.zip";
-      download_hash = "1vn7xg2q0znr10sh5sf1g2xc1rj84ibgrwg0mlcs3ng4i8p956bp";
+      version = "2.0.17";
+      url = "https://cdn.tzatzikiweeb.moe/file/steam-deck-homebrew/versions/24f7f668a293a672afde6eaaaa915023f56d57205a594344263b8c54560d6a9f.zip";
+      download_hash = "17va1mb5931v4r246nas41bnvx93a28smakfvspp59lkl9lgdxr4";
       meta = with lib;
       {
         description = "Monitor the battery level of your AirPods, Beats and Galaxy Buds. Easily switch between noise cancellation modes and enjoy the magic.";
@@ -1202,9 +1202,9 @@
     };
     "moondeck" = buildDeckyPlugin {
       name = "MoonDeck";
-      version = "1.11.3";
-      url = "https://cdn.tzatzikiweeb.moe/file/steam-deck-homebrew/versions/eaa73f19284d264357cd4f38223e0e9b4cc597e14a41e65a9a9a1710329750cd.zip";
-      download_hash = "1kahjwr105wsk9dfchaaw6bwak4v1qz24f2grmbl69jd50ckz9za";
+      version = "1.12.0";
+      url = "https://cdn.tzatzikiweeb.moe/file/steam-deck-homebrew/versions/0ac9194d43e7f53034146efd2d34a52dedce1893bbcbb410d2959cae03800784.zip";
+      download_hash = "1107h01sx74ms88b9jxvjcccxv9dlls2vzbf2hs31xg78d6ikj8a";
       meta = with lib;
       {
         description = "MoonDeck lets you play any of your Steam games via Moonlight without needing to add them to Sunshine first, providing a similar experience to GeForce GameStream or Steam Remote Play.";
@@ -1268,9 +1268,9 @@
     };
     "hltb_for_deck" = buildDeckyPlugin {
       name = "HLTB for Deck";
-      version = "2.0.9";
-      url = "https://cdn.tzatzikiweeb.moe/file/steam-deck-homebrew/versions/a5547a4ad99a6d63d475476396359a4f89fc8aacdf1e9deca0015d9f4ab9751d.zip";
-      download_hash = "07bmp559yp81l3n9s7nzmj5gr2agk8srcqs7fpa66vcsv557lm55";
+      version = "2.0.10";
+      url = "https://cdn.tzatzikiweeb.moe/file/steam-deck-homebrew/versions/cf282be160f2b6f649405ec5c4f1e19cf12ff9256f780e56496d0344b8b65bcc.zip";
+      download_hash = "1k2vnsw480vd95b0wy3g4pwjzwcww7qw9iay814zddpjc3hjna6g";
       meta = with lib;
       {
         description = "A plugin to show you game lengths according to How Long To Beat";
