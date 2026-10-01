@@ -1202,9 +1202,9 @@
     };
     "moondeck" = buildDeckyPlugin {
       name = "MoonDeck";
-      version = "1.12.0";
-      url = "https://cdn.tzatzikiweeb.moe/file/steam-deck-homebrew/versions/0ac9194d43e7f53034146efd2d34a52dedce1893bbcbb410d2959cae03800784.zip";
-      download_hash = "1107h01sx74ms88b9jxvjcccxv9dlls2vzbf2hs31xg78d6ikj8a";
+      version = "1.12.1";
+      url = "https://cdn.tzatzikiweeb.moe/file/steam-deck-homebrew/versions/891be7946805a01292dc43ebce86cb1b8825cc4cbab1ec898cca80100bc45434.zip";
+      download_hash = "0d2lqh5i106aij4yrcds9k62b20vrf3cxss3vj915805d2aff6w9";
       meta = with lib;
       {
         description = "MoonDeck lets you play any of your Steam games via Moonlight without needing to add them to Sunshine first, providing a similar experience to GeForce GameStream or Steam Remote Play.";
